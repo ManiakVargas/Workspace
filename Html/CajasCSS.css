@@ -1,0 +1,15 @@
+body{
+    background-color: cornsilk;
+}
+.caja{ 
+    margin: 8px;
+    padding: 8px;
+    border-style:outset;
+    border-width: 3px;
+    border-color: darkslategray;
+    background-color: darkseagreen;
+    border-radius: 4px;
+    height: 100px;
+    width: 100px;
+    color:brown
+}

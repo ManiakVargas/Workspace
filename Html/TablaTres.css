@@ -1,0 +1,11 @@
+body {
+    background-color: #eee;
+}
+
+#Invisible{
+    display: none;
+}
+
+span {
+    display: block;
+}
